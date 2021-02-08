@@ -1,0 +1,3 @@
+/* Array */
+
+=> Array dapat ditemui di hampir semua bahasa pemrograman, tujuannya untuk menyimpan banyak data dalam variabel yang sama dan dalam satu tipe data yang sama juga. Penerapan Array sering dilakukan jika seseorang harus menyimpan banyak data dalam satu tipe data,
